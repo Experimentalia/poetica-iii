@@ -7,5 +7,6 @@ Poezii, din dragoste
  - [Dubii](https://github.com/Experimentalia/poetica-iii/blob/master/text/micile_dubii.txt)
  - [Pe Carol in jos](https://github.com/Experimentalia/poetica-iii/blob/master/text/pe_carol_in_jos.txt)
  - [Întrebări](https://github.com/Experimentalia/poetica-iii/blob/master/text/intrebari.txt)
+ - [Pe ea](https://github.com/Experimentalia/poetica-iii/blob/master/text/pe_ea.txt)
  - [Cava](https://github.com/Experimentalia/poetica-iii/blob/master/text/cava.txt)
  - [Cancer](https://github.com/Experimentalia/poetica-iii/blob/master/text/cancer.txt)
